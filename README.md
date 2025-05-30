@@ -1,2 +1,1 @@
-# Python
-Here I'll upload my Python coding projects.
+A collection of beginner-friendly <b>Python<b> programs for learning and practicing.
