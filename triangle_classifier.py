@@ -53,3 +53,6 @@ def classify_triangle(p1, p2, p3, tol=1e-9):
         return "Scalene Triangle."
     else:
         return "Error!"
+
+check=classify_triangle((1, 2), (4, 5), (1, 2))
+print(check)
